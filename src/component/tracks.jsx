@@ -17,7 +17,8 @@ const data = [
       'Computational Theories of Learning',
       'Neural Language Processing',
       'Distributed Knowledge-Based System',
-      'AI-Based Pattern Recognition'
+      'AI-Based Pattern Recognition',
+      'Scientific Machine Learning for Data-Intensive Science such as Astrophysics, Computational Biology, Climate Science, and Environmental Science'
     ]
   },
   {

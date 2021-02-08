@@ -124,6 +124,7 @@ const HeaderComponent = ({menu}) => {
             <p data-aos="zoom-in"  className="mt-3 text-base text-gray-500 sm:mt-5 font-light sm:text-xl lg:text-lg xl:text-xl">
             (PAN-AFRICAN AIS 2021), to be held October 7-9, 2021, University of Namibia, Windhoek, Namibia.
             </p>
+            <p data-aos="zoom-in" className="text-base text-gray-500 font-light"> (The conference will be held online if COVID-19 situation does not improve)</p>
             <div data-aos="zoom-in" className="mt-5 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0">
               <p className="text-base font-medium text-gray-900">
               Conference Theme: <span className="text-indigo-600">Advancing AI research in Africa</span>
