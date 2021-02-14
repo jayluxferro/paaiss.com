@@ -161,13 +161,17 @@ const WorkshopsComponent = () => {
                 <li data-aos="zoom-in" className={"font-light"}>Final manuscript deadline: <span className={"font-medium"}>July 10, 2021</span></li>
                 <li data-aos="zoom-in" className={"font-light"}>Author registration deadline: <span className={"font-medium"}>July 10, 2021</span></li>
               </ul>
-              <h3>SUBMISSION OF PAPERS</h3>
-              <p data-aos="zoom-in" className={"font-light"}>The submission of papers is through EasyChair system using: <a target={"_blank"} rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=panafricanais2021" className={"font-blue-400 underline"}>https://easychair.org/conferences/?conf=panafricanais2021</a>. As shown in the page that is opened, you must first create an EasyChair account if you do not have one already. The EasyChair system will then email you your password, which you will then use to access thesystem and finalize your paper submission.</p>
-              <p data-aos="zoom-in" className={"font-light"}>Template for paper preparation can be found here: <a target={"_blank"} rel="noopener noreferrer" href="http://voyager.ce.fit.ac.jp/conftools/Springer/For-the-authors-LECTURE-NOTES-TEMPLATES.zip" className={"font-blue-400 underline"}>http://voyager.ce.fit.ac.jp/conftools/Springer/For-the-authors-LECTURE-NOTES-TEMPLATES.zip</a>.</p>
+            <h3>SUBMISSION OF PAPERS</h3>
+            <p data-aos="zoom-in" className={"font-light"}>The submission of papers is through EasyChair system using: <a target={"_blank"} rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=panafricanais2021" className={"font-blue-400 underline"}>https://easychair.org/conferences/?conf=panafricanais2021</a>. As shown in the page that is opened, you must first create an EasyChair account if you do not have one already. The EasyChair system will then email you your password, which you will then use to access the system and finalize your paper submission.</p>
+            <p data-aos="zoom-in" className={"font-light"}>Template for paper preparation:<br/>
+            <span data-aos="zoom-in" className={"font-bold"}>LaTex: <a target={"_blank"} rel="noopener noreferrer" href="ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip" className={"font-blue-400 underline"}> ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip</a>.</span><br/>
+            <span data-aos="zoom-in" className={"font-bold"}>MS Word: <a target={"_blank"} rel="noopener noreferrer" href="ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip" className={"font-blue-400 underline"}> ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip</a>.</span><br/>
+             <span data-aos="zoom-in" className={"font-light"}>The preferred format for submission is LaTex.</span><br/>
+            </p>
             <p data-aos="zoom-in" className={"font-light"}>Papers accepted for the conference will be allocated 12 pages in the proceedings (including references), with the option of purchasing up to 2 extra pages for $50 per page. If you are unwilling or unable to pay the additional charge, you should limit yourself to 12 pages. Otherwise, the page limit is 14 pages.</p>
 
-              <h3>Conference Proceedings:</h3> 
-              <p data-aos="zoom-in" className={"font-light"}>Proceedings of the conference will appear in Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering (LNICST) Springer Series, indexed in SCOPUS, ISI Proceedings, MetaPress, SpringerLink, and DBLP (<a href="https://www.springer.com/series/8197" target="_blank">https://www.springer.com/series/8197</a>)</p>
+            <h3>Conference Proceedings:</h3>
+            <p data-aos="zoom-in" className={"font-light"}>Proceedings of the conference will appear in Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering (LNICST) Springer Series, indexed in SCOPUS, ISI Proceedings, MetaPress, SpringerLink, and DBLP (<a href="https://www.springer.com/series/8197" target="_blank">https://www.springer.com/series/8197</a>)</p>
 
               <h3>Contact:</h3>
               <p data-aos="zoom-in" className={"font-light"}>For any additional query, please contact the conference TPC Co-chairs via email: <a target={"_blank"} rel="noopener noreferrer" href="mailto:general-chair@paaiss.com" className={"font-blue-400 underline"}>general-chair@paaiss.com</a></p>
