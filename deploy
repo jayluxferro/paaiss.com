@@ -1,2 +1,2 @@
-npm run deploy
+npm run build
 cp .htaccess build/

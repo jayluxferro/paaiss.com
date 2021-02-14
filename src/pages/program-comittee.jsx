@@ -13,6 +13,7 @@ const data = [
     {name:"Antoine Bagula",school:"University of Western Cape, South Africa"},
     {name:"Mohammed-Sani Abdulai",school:"Advanced Information Technology Institute, Ghana"},
     {name:"Serestina Viriri",school:"University of Kwazulu-Natal, South Africa"},
+    {name:"Jean Vincent Fonou Dombeu",school:"University of Kwazulu-Natal, South Africa"},
     {name:"Shibwabo Benard",school:"University of Strathmore, Kenya"},
     {name:"Ismail Ateya",school:"University of Strathmore, Kenya"},
     {name:"Lawrence Githuari",school:"University of Nairobi, Kenya"},
