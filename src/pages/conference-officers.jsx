@@ -28,7 +28,7 @@ const data = [
   {
     category: 'Local Organizing Committee',
     names: [
-      { name: "Prof. Adolf Diaz", school: "University of Namibia"},
+      { name: "Prof. Adolfo Diaz", school: "University of Namibia"},
       { name: "Ms. Theodora Mukaya", school: "University of Namibia"},
       { name: "Ms. Annastacia Shipepe", school: "University of Namibia"},
       { name: "Mr. Justice Owusu Agyemang", school: "Kwame Nkrumah University of Science and Technology, Ghana"},
