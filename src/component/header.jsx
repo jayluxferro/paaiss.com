@@ -44,6 +44,11 @@ const HeaderComponent = ({menu}) => {
           <Link to="/program-committees" className="ml-10 font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Technical Program Committee</Link>
           <Link to="/conference-officers" className="ml-10 font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Organizing Committees</Link>
           <Link to="/keynotes-and-tutorials" className="ml-10 font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Keynotes</Link>
+      {/*
+          <Link to="#" className="ml-10 font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Registration</Link>
+          <Link to="#" className="ml-10 font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Technical Program</Link>
+          <Link to="#" className="ml-10 font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Mini Workshop Program</Link>
+          */}
         </div>
       </div>
       <div className="hidden md:block text-right">

@@ -46,6 +46,7 @@ const ConferenceOfficers = () => {
   return  (
     <Fragment>
       <HeaderComponent menu={"Organizing Committee"} />
+    {/*
       {
         chair.map((d, l) => (
         <div className="bg-white" style={{ marginTop: 20 }} key={l}>
@@ -87,6 +88,7 @@ const ConferenceOfficers = () => {
         </div>
         ))
       }
+      */}
       {
         data.map((d, l) => (
         <div className="bg-white" style={{ marginTop: 20 }} key={l}>
