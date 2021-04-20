@@ -75,7 +75,7 @@ const Tracks = () => {
     <Fragment>
 
       <div className="relative md:bg-white md:p-6">
-        <div className="lg:grid lg:grid-cols-2 lg:gap-6 mb-8">
+        <div className="lg:grid lg:grid-cols-4 lg:gap-6 mb-8">
           {
             data.map((k, i) => (
               <div key={i} className="prose text-gray-500 mx-auto lg:max-w-none lg:row-start-0 lg:col-start-0">

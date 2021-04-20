@@ -1,0 +1,23 @@
+.blinking {
+  animation: blinkingText 1s linear infinite;
+}
+
+ @keyframes blinkingText {
+    from {
+        opacity: 1;
+        color : yellow;
+        }
+    to {
+        opacity: 0;
+        color : white;
+        }
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: .5;
+    }
+    100% {
+        opacity: 1;
+    }
+}

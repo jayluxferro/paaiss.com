@@ -4,6 +4,7 @@ import FooterComponent from '../component/footer'
 import AOS from 'aos';
 import "aos/dist/aos.css"
 
+/*
 const chair = [
   {
     category: 'Organizing Committee Chair',
@@ -12,7 +13,7 @@ const chair = [
     ]
   }
 ]
-
+*/
 const data = [
   {
     category: 'Executive Organizing Committee',
