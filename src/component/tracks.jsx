@@ -6,7 +6,7 @@ const data = [
     tracks: [
       'Advanced ML/DL Algorithms',
       'Distributed ML/DL Architectures',
-      'Neural Neetworks Architectures',
+      'Neural Networks Architectures',
       'Fuzzy Logic and Computational Intelligence',
       'AI-Based Computer Vision and Image Processing',
       'Evolutionary Computing',
