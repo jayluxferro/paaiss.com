@@ -162,9 +162,9 @@ const WorkshopsComponent = () => {
                 <li data-aos="zoom-in" className={"font-light"}>Author registration deadline: <span className={"font-medium"}>July 10, 2021</span></li>
               </ul>
             <h3>SUBMISSION OF WORKSHOPS</h3>
-            <p data-aos="zoom-in" className={"font-light"}>The submission of workshops is through EasyChair system using: <a target={"_blank"} rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=aingwc2021" className={"font-blue-400 underline"}>https://easychair.org/conferences/?conf=aingwc2021</a>. As shown in the page that is opened, you must first create an EasyChair account if you do not have one already. The EasyChair system will then email you your password, which you will then use to access the system and finalize your paper submission.</p>
+            <p data-aos="zoom-in" className={"font-light"}>The submission of workshops is through EasyChair system using: <a target={"_blank"} rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=panafricanais2021" className={"font-blue-400 underline"}>https://easychair.org/conferences/?conf=panafricanais2021</a>. As shown in the page that is opened, you must first create an EasyChair account if you do not have one already. The EasyChair system will then email you your password, which you will then use to access the system and finalize your paper submission.</p>
               <h3>Contact:</h3>
-              <p data-aos="zoom-in" className={"font-light"}>For any additional query, please contact the conference Workshop organizer via email: <a target={"_blank"} rel="noopener noreferrer" href="mailto:aingwc2021@easychair.org" className={"font-blue-400 underline"}>aingwc2021@easychair.org</a></p>
+              <p data-aos="zoom-in" className={"font-light"}>For any additional query, please contact the conference TPC Co-chair via email: <a target={"_blank"} rel="noopener noreferrer" href="mailto:general-chair@paaiss.com" className={"font-blue-400 underline"}>general-chair@paaiss.com</a></p>
             </div>
             
             <div  className="prose text-gray-500 mx-auto -ml-1 lg:max-w-none lg:row-start-0 lg:col-start-0">
@@ -180,71 +180,6 @@ const WorkshopsComponent = () => {
     </div> 
   </div>
 </div>
-{/* 
-<div className="relative py-16 bg-white overflow-hidden">
-  <div className="hidden lg:block lg:absolute lg:inset-y-0 lg:h-full lg:w-full">
-    <div className="relative h-full text-lg max-w-prose mx-auto">
-      <svg className="absolute top-12 left-full transform translate-x-32" width="404" height="384" fill="none" viewBox="0 0 404 384">
-        <defs>
-          <pattern id="74b3fd99-0a6f-4271-bef2-e80eeafdf357" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-            <rect x="0" y="0" width="4" height="4" className="text-gray-200" fill="currentColor" />
-          </pattern>
-        </defs>
-        <rect width="404" height="384" fill="url(#74b3fd99-0a6f-4271-bef2-e80eeafdf357)" />
-      </svg>
-      <svg className="absolute top-1/2 right-full transform -translate-y-1/2 -translate-x-32" width="404" height="384" fill="none" viewBox="0 0 404 384">
-        <defs>
-          <pattern id="f210dbf6-a58d-4871-961e-36d5016a0f49" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-            <rect x="0" y="0" width="4" height="4" className="text-gray-200" fill="currentColor" />
-          </pattern>
-        </defs>
-        <rect width="404" height="384" fill="url(#f210dbf6-a58d-4871-961e-36d5016a0f49)" />
-      </svg>
-      <svg className="absolute bottom-12 left-full transform translate-x-32" width="404" height="384" fill="none" viewBox="0 0 404 384">
-        <defs>
-          <pattern id="d3eb07ae-5182-43e6-857d-35c643af9034" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-            <rect x="0" y="0" width="4" height="4" className="text-gray-200" fill="currentColor" />
-          </pattern>
-        </defs>
-        <rect width="404" height="384" fill="url(#d3eb07ae-5182-43e6-857d-35c643af9034)" />
-      </svg>
-    </div>
-  </div>
-  <div className="relative px-4 sm:px-6 lg:px-8">
-    <div className="text-lg max-w-prose mx-auto mb-6">
-      <p className="text-base text-center leading-6 text-indigo-600 font-semibold tracking-wide uppercase">LIST OF ACCEPTED WORKSHOPS</p>
-      <h1 className="mt-2 mb-8 text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">Workshop on AI and Smart Systems for Intelligent Cities</h1>
-      <p className="text-xl text-gray-500 leading-8" data-aos="zoom-in" className={"font-light"}>Several emerging technologies are being developed which can be combined to build Intelligent Cities (ICs). ICs are necessary to facilitate the next phase of human progress as it is estimated that by 2030 more than half the population of the world will live in cities. Intelligent Cities will enable this large movement of people by exploiting synergies but also by minimizing the negative effects of such large migrations. This is happening all over the world, but is particularly relevant for the continent of Africa.</p>
-    </div>
-    <div className="prose prose-lg text-gray-500 mx-auto">
-      <p data-aos="zoom-in" className={"font-light"}>In order to build Intelligent Cities, we need to develop and combine technologies in several areas including Transport, Communications, Urban Space and Infrastructure Management, Advanced Healthcare Systems, Digital, and Financial Services Platforms as well as Cyber-Physical, Personal and Information Security Frameworks.</p>
-      <p data-aos="zoom-in" className={"font-light"}>Artificial Intelligence, Machine-Learning and Smart Systems will have to provide new algorithms, mechanisms and techniques in order to develop these new environments. This workshop will focus on these issues. Topics will include</p>
-      
-      
-      <ul>
-          <li data-aos="zoom-in" className={"font-light"}>Heterogeneous networks for ICs</li>
-          <li data-aos="zoom-in" className={"font-light"}>Emerging communication technologies for ICs</li>
-          <li data-aos="zoom-in" className={"font-light"}>Intelligent Transport Systems for ICs</li>
-          <li data-aos="zoom-in" className={"font-light"}>Urban and Infrastructural Management for ICs</li>
-          <li data-aos="zoom-in" className={"font-light"}>Digital Platforms for ICs</li>
-          <li data-aos="zoom-in" className={"font-light"}>Financial Services Platforms of ICs</li>
-          <li data-aos="zoom-in" className={"font-light"}>New Cloud Computing Platforms for ICs</li>
-          <li data-aos="zoom-in" className={"font-light"}>Information Security Frameworks for ICs</li>
-          <li data-aos="zoom-in" className={"font-light"}>Cyber-Physical Security for ICs</li>
-          <li data-aos="zoom-in" className={"font-light"}>Blockchain Engineering for ICs</li>
-          <li data-aos="zoom-in" className={"font-light"}>
-Security and Privacy in ICs</li>
-          <li data-aos="zoom-in" className={"font-light"}>Governance and Management Issues for ICs</li>
-      </ul>
-      <p>Workshop Organiser: Glenford Mapp, Middlesex University</p>
-    </div>
-  </div>
-</div>
-*/}
-
-
-
-
 <FooterComponent />
         </Fragment>
     )

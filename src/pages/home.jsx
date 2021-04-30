@@ -2,6 +2,7 @@ import React,{Fragment,useEffect} from 'react';
 import HeaderComponent from '../component/header'
 import ScopeComponent from '../component/scope'
 import FooterComponent from '../component/footer'
+import Tutorials from '../component/tutorials'
 import AOS from 'aos';
 import "aos/dist/aos.css"
 
@@ -16,6 +17,7 @@ function Home() {
     <Fragment>
     <HeaderComponent menu={"Home"} />
     <ScopeComponent />
+    <Tutorials />
     <FooterComponent />
     </Fragment>
   );
