@@ -4,6 +4,7 @@ import FooterComponent from '../component/footer'
 import Tracks from '../component/tracks'
 import AOS from 'aos';
 import "aos/dist/aos.css"
+import Blink from 'react-blink-text'
 
 const PapersComponent = () => {
   useEffect(() => {

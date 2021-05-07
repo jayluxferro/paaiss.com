@@ -1,6 +1,6 @@
 import React,{Fragment,useState} from 'react';
 import { Link } from 'react-router-dom'
-
+import Blink from 'react-blink-text'
 
 const HeaderComponent = ({menu}) => {
   const [showMenu, setShowMenu] = useState(false)
@@ -134,7 +134,9 @@ const HeaderComponent = ({menu}) => {
               <p className="text-base font-medium text-gray-900">
               Conference Theme: <span className="text-indigo-600">Advancing AI research in Africa</span>
               </p>
-              <p className="blinking text-base font-medium text-gray-500" style={{ marginTop: 10 }}>Due to the COVID-19, the submission deadline has been extended to May 31, 2021.</p>
+              <p className="blinking text-base font-medium text-gray-500" style={{ marginTop: 10 }}>
+                <Blink color='red' text='Due to the COVID-19, the submission deadline has been extended to May 31, 2021.' fontSize='15'></Blink>
+              </p>
             </div>
           </div>
           <div className="mt-12 relative sm:max-w-lg sm:mx-auto lg:mt-0 lg:max-w-none lg:mx-0 lg:col-span-6 lg:flex lg:items-center">
