@@ -1,6 +1,7 @@
 import React,{Fragment,useState} from 'react';
 import { Link } from 'react-router-dom'
 import Blink from 'react-blink-text'
+import SocialMediaLinks from './social-media-links'
 
 const HeaderComponent = ({menu}) => {
   const [showMenu, setShowMenu] = useState(false)
@@ -21,6 +22,9 @@ const HeaderComponent = ({menu}) => {
       <rect y="72" width="640" height="640" className="text-gray-50" fill="currentColor" />
       <rect x="118" width="404" height="784" fill="url(#9ebea6f4-a1f5-4d96-8c4e-4c2abf658047)" />
     </svg>
+  </div>
+  <div className="relative pt-0 pb-0 md:pb-0 lg:pb-0 xl:pb-0">
+    <SocialMediaLinks />
   </div>
   <div className="relative pt-6 pb-0 md:pb-0 lg:pb-0 xl:pb-0">
     <nav className="relative max-w-screen-xl mx-auto flex items-center justify-between px-4 sm:px-6">
@@ -134,9 +138,9 @@ const HeaderComponent = ({menu}) => {
               <p className="text-base font-medium text-gray-900">
               Conference Theme: <span className="text-indigo-600">Advancing AI research in Africa</span>
               </p>
-              <p className="blinking text-base font-medium text-gray-500" style={{ marginTop: 10 }}>
-                <Blink color='red' text='Due to the COVID-19, the submission deadline has been extended to May 31, 2021.' fontSize='15'></Blink>
-              </p>
+              <div className="blinking text-base font-medium text-gray-500" style={{ marginTop: 10 }}>
+                <Blink color='red' text='Due to the COVID-19, the submission deadline has been extended to May 31, 2021.' fontSize='15' fontWeight='bold'></Blink>
+              </div>
             </div>
           </div>
           <div className="mt-12 relative sm:max-w-lg sm:mx-auto lg:mt-0 lg:max-w-none lg:mx-0 lg:col-span-6 lg:flex lg:items-center">
