@@ -24,6 +24,7 @@ const data = [
       { name: "Dr. Serestina Viriri", school: "University of KwaZulu-Natal, South Africa", profile: "serestina.png"},
       { name: "Dr. Jules-Raymond Tapamo", school: "University of KwaZulu-Natal, South Africa", profile: ""},
       { name: "Dr. James Dzisi Gadze", school: "Kwame Nkrumah University of Science and Technology, Ghana", profile: ""},
+      { name: "Mr. Justice Owusu Agyemang", school: "Kwame Nkrumah University of Science and Technology, Ghana", profile: "justice.jpg"},
     ],
   },
   {
@@ -32,7 +33,7 @@ const data = [
       { name: "Prof. Adolfo Diaz", school: "University of Namibia", profile: ""},
       { name: "Ms. Theodora Mukaya", school: "University of Namibia", profile: ""},
       { name: "Ms. Annastacia Shipepe", school: "University of Namibia", profile: ""},
-      { name: "Mr. Justice Owusu Agyemang", school: "Kwame Nkrumah University of Science and Technology, Ghana", profile: "justice.jpg"},
+  //    { name: "Mr. Justice Owusu Agyemang", school: "Kwame Nkrumah University of Science and Technology, Ghana", profile: "justice.jpg"},
     ]
   }
 ]

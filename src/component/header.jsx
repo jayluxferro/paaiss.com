@@ -45,8 +45,9 @@ const HeaderComponent = ({menu}) => {
           <Link to="/" className="font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Home</Link>
           <Link to="/papers" className="ml-10 font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Call for Papers</Link>
           <Link to="/workshops" className="ml-10 font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Call for Workshops</Link>
+          <a href="https://www.eventbrite.ca/e/pan-african-artificial-intelligence-and-smart-systems-conference-2021-tickets-150311344277?aff=ebdsoporgprofile" target="_blank" className="ml-10 font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Registration</a>
           <Link to="/program-committees" className="ml-10 font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Technical Program Committee</Link>
-          <Link to="/conference-officers" className="ml-10 font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Organizing Committees</Link>
+          <Link to="/conference-officers" className="ml-10 font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Organizing Committee</Link>
           <Link to="/keynotes-and-tutorials" className="ml-10 font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Keynotes</Link>
       {/*
           <Link to="#" className="ml-10 font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Registration</Link>
@@ -98,14 +99,10 @@ const HeaderComponent = ({menu}) => {
           <Link to="/" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Home</Link>
           <Link to="/papers" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Call for Papers</Link>
           <Link to="/workshops" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Call for Workshops</Link>
+          <a href="https://www.eventbrite.ca/e/pan-african-artificial-intelligence-and-smart-systems-conference-2021-tickets-150311344277?aff=ebdsoporgprofile" target="_blank" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Conference Registration</a>
           <Link to="/program-committees" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Technical Program Committee</Link>
           <Link to="/conference-officers" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Organizing Committees</Link>
           <Link to="/keynotes-and-tutorials" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Keynotes</Link>
-    
-            {/* <a href="#" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out" role="menuitem">Product</a> */}
-            {/* <a href="#" className="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out" role="menuitem">Features</a> */}
-            {/* <a href="#" className="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out" role="menuitem">Marketplace</a> */}
-            {/* <a href="#" className="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out" role="menuitem">Company</a> */}
           </div>
           {/* <div>
             <a href="#" className="block w-full px-5 py-3 text-center font-medium text-indigo-600 bg-gray-50 hover:bg-gray-100 hover:text-indigo-700 focus:outline-none focus:bg-gray-100 focus:text-indigo-700 transition duration-150 ease-in-out" role="menuitem">

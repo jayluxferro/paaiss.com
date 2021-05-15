@@ -25,7 +25,7 @@ const ScopeComponent = () => {
               <Link data-aos="zoom-in" to="/workshops" rel="noopener noreferrer" className="my-5 inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-light rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">
                 Call for Workshops
               </Link>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              <a target="_blank" data-aos="zoom-in" href="http://paais.eventbrite.ca/?s=131275389" rel="noopener noreferrer" className="my-5 inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-light rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">
+              <a target="_blank" data-aos="zoom-in" href="https://www.eventbrite.ca/e/pan-african-artificial-intelligence-and-smart-systems-conference-2021-tickets-150311344277?aff=ebdsoporgprofile" rel="noopener noreferrer" className="my-5 inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-light rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">
                 Register for the Conference
               </a>
             </div>
