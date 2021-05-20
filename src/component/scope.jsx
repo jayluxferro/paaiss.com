@@ -22,6 +22,9 @@ const ScopeComponent = () => {
               <Link data-aos="zoom-in" to="/papers" rel="noopener noreferrer" className="my-5 inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-light rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">
                 Call for Papers
               </Link>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <Link data-aos="zoom-in" to="/wip" rel="noopener noreferrer" className="my-5 inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-light rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">
+                Call for Papers (Work in Progress)
+              </Link>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
               <Link data-aos="zoom-in" to="/workshops" rel="noopener noreferrer" className="my-5 inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-light rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">
                 Call for Workshops
               </Link>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
