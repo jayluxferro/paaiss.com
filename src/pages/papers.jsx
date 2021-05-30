@@ -56,7 +56,7 @@ const PapersComponent = () => {
           <div className="prose prose-lg text-gray-500 mx-auto">
             <h3 data-aos="zoom-in">IMPORTANT DATES</h3>
             <ul>
-              <li data-aos="zoom-in" className={"font-light"}>Technical papers submission deadline: <span className={"font-medium"}>May 31, 2021</span></li>
+              <li data-aos="zoom-in" className={"font-light"}>Technical papers submission deadline: <span className={"font-medium"}>June 15, 2021</span></li>
               <li data-aos="zoom-in" className={"font-light"}>Author notification: <span className={"font-medium"}>June 30, 2021</span></li>
               <li data-aos="zoom-in" className={"font-light"}>Final manuscript deadline: <span className={"font-medium"}>July 10, 2021</span></li>
               <li data-aos="zoom-in" className={"font-light"}>Author registration deadline: <span className={"font-medium"}>July 10, 2021</span></li>

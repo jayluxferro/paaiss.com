@@ -156,7 +156,7 @@ const WorkshopsComponent = () => {
             <div  className="prose text-gray-500 mx-auto lg:max-w-none lg:row-start-0 lg:col-start-0">
               <h2 data-aos="zoom-in">IMPORTANT DATES</h2>
               <ul>
-                <li data-aos="zoom-in" className={"font-light"}>Technical papers submission deadline: <span className={"font-medium"}>May 31, 2021</span></li>
+                <li data-aos="zoom-in" className={"font-light"}>Technical papers submission deadline: <span className={"font-medium"}>June 15, 2021</span></li>
                 <li data-aos="zoom-in" className={"font-light"}>Author notification: <span className={"font-medium"}>June 30, 2021</span></li>
                 <li data-aos="zoom-in" className={"font-light"}>Final manuscript deadline: <span className={"font-medium"}>July 10, 2021</span></li>
                 <li data-aos="zoom-in" className={"font-light"}>Author registration deadline: <span className={"font-medium"}>July 10, 2021</span></li>

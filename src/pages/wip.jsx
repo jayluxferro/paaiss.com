@@ -56,7 +56,7 @@ const WIPComponent = () => {
             <p>Prospective graduate students are invited to submit high-quality and ongoing original work-in-progress that advance the fields of Artificial Intelligence and Smart Systems’ research. </p>
             <h3 data-aos="zoom-in">IMPORTANT DATES</h3>
             <ul>
-              <li data-aos="zoom-in" className={"font-light"}>Technical papers submission deadline: <span className={"font-medium"}>June 10, 2021</span></li>
+              <li data-aos="zoom-in" className={"font-light"}>Technical papers submission deadline: <span className={"font-medium"}>June 15, 2021</span></li>
               <li data-aos="zoom-in" className={"font-light"}>Author notification: <span className={"font-medium"}>June 30, 2021</span></li>
               <li data-aos="zoom-in" className={"font-light"}>Final manuscript deadline: <span className={"font-medium"}>July 10, 2021</span></li>
               <li data-aos="zoom-in" className={"font-light"}>Author registration deadline: <span className={"font-medium"}>July 10, 2021</span></li>
