@@ -56,10 +56,10 @@ const WIPComponent = () => {
             <p>Prospective graduate students are invited to submit high-quality and ongoing original work-in-progress that advance the fields of Artificial Intelligence and Smart Systems’ research. </p>
             <h3 data-aos="zoom-in">IMPORTANT DATES</h3>
             <ul>
-              <li data-aos="zoom-in" className={"font-light"}>Technical papers submission deadline: <span className={"font-medium"}>June 30, 2021</span></li>
-              <li data-aos="zoom-in" className={"font-light"}>Author notification: <span className={"font-medium"}>July 15, 2021</span></li>
-              <li data-aos="zoom-in" className={"font-light"}>Final manuscript deadline: <span className={"font-medium"}>July 31, 2021</span></li>
-              <li data-aos="zoom-in" className={"font-light"}>Author registration deadline: <span className={"font-medium"}>August 20, 2021</span></li>
+              <li data-aos="zoom-in" className={"font-light"}>Technical papers submission deadline: <span className={"font-medium"}>July 31, 2021</span></li>
+              <li data-aos="zoom-in" className={"font-light"}>Author notification: <span className={"font-medium"}>August 15, 2021</span></li>
+              <li data-aos="zoom-in" className={"font-light"}>Final manuscript deadline: <span className={"font-medium"}>August 30, 2021</span></li>
+              <li data-aos="zoom-in" className={"font-light"}>Author registration deadline: <span className={"font-medium"}>September 10, 2021</span></li>
             </ul>
             <h3>SUBMISSION OF PAPERS</h3>
             <p data-aos="zoom-in" className={"font-light"}>The submission of papers is through EasyChair system using: <a target={"_blank"} rel="noopener noreferrer" href="https://easychair.org/conferences/?conf=panafricanais2021" className={"font-blue-400 underline"}>https://easychair.org/conferences/?conf=panafricanais2021</a>. As shown in the page that is opened, you must first create an EasyChair account if you do not have one already. The EasyChair system will then email you your password, which you will then use to access the system and finalize your paper submission.</p>
