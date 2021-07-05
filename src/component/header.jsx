@@ -136,7 +136,7 @@ const HeaderComponent = ({menu}) => {
               Conference Theme: <span className="text-indigo-600">Advancing AI research in Africa</span>
               </p>
               <div className="blinking text-base font-medium text-gray-500" style={{ marginTop: 10 }}>
-                <Blink color='red' text='Due to the COVID-19 and based on many requests, the submission deadline has been extended to July 31, 2021.' fontSize='15' fontWeight='bold'></Blink>
+                <Blink color='red' text='Due to the COVID-19 and based on many requests, the submission deadline has been extended to August 10, 2021.' fontSize='15' fontWeight='bold'></Blink>
               </div>
             </div>
           </div>
