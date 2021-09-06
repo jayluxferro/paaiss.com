@@ -9,6 +9,7 @@ const KeynotesComponent = lazy(()=>import ('./pages/keynotes'))
 const WorkshopsComponent = lazy(()=>import ('./pages/workshops'))
 const PapersComponent = lazy(()=>import ('./pages/papers'))
 const WIPComponent = lazy(() => import('./pages/wip'))
+const KeynoteSpeakersComponent = lazy(() => import('./pages/keynote-speakers'))
 
 const LoadingComponet = () => {
   return (
@@ -31,6 +32,7 @@ const App = () => {
     <Route path={"/papers"} exact={true} component={PapersComponent} />
     <Route path={"/wip"} exact={true} component={WIPComponent} />
     <Route path={"/keynotes-and-tutorials"} exact={true} component={KeynotesComponent} />
+    <Route path={"/keynote-speakers"} exact={true} component={KeynoteSpeakersComponent} />
     <Route path={"/workshops"} exact={true} component={WorkshopsComponent} />
 
     <Route path={"/"} exact={true} component={HomeComponent} />

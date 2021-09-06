@@ -15,6 +15,7 @@ const ScopeComponent = () => {
   Tailwind UI components require Tailwind CSS v1.8 and the @tailwindcss/ui plugin.
   Read the documentation to get started: https://tailwindui.com/documentation
 --> */}
+          {/*
       <div className="py-0 xl:py-0 px-4 sm:px-0 lg:px-0 bg-white overflow-hidden">
         <div className="max-w-max-content lg:max-w-7xl mx-auto">
           <div className="relative z-10 mb-8 md:mb-2 md:px-6">
@@ -35,6 +36,7 @@ const ScopeComponent = () => {
           </div>
         </div>
       </div>
+      */}
 <div className="relative bg-gray-800">
   <div className="h-56 bg-indigo-600 sm:h-72 md:absolute md:left-0 md:h-full md:w-1/2">
     <img className="w-full h-full object-cover" src={require('../assets/images/ai.jpg')} alt="Support team" />

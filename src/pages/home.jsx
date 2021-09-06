@@ -18,8 +18,10 @@ function Home() {
     <Fragment>
     <HeaderComponent menu={"Home"} />
     <ScopeComponent />
+    {/*
     <Tutorials />
     <Plenary />
+    */}
     <FooterComponent />
     </Fragment>
   );

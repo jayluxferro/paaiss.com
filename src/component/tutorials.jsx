@@ -2,10 +2,10 @@ import React, { Fragment } from 'react'
 
 const data = [
   {
-    category: 'Workshops',
+    category: 'Tutorials',
     names: [
       { name: "Prof. Ernest Fokoué", school: "School of Mathematical Sciences, Rochester Institute of Technology, Rochester, New York, USA.", profile: "fokoue.png", title: "On the Ubiquity of the Bayesian Paradigm in Artificial Intelligence and Statistical Machine Learning", document: '1_Fokoue'},
-      { name: "Dr. Telex Magloire Ngatched", school: "University of Newfoundland, Canada.", profile: "telex.jpg", title: "Applications of Artificial Intelligence in Next-Generations Wireless Communications", document: '2_telex'},
+      { name: "Prof. Telex Magloire Ngatched", school: "University of Newfoundland, Canada.", profile: "telex.jpg", title: "Applications of Artificial Intelligence in Next-Generations Wireless Communications", document: '2_telex'},
     ],
   }
 ]
