@@ -1,6 +1,5 @@
 import React,{Fragment,useState} from 'react';
 import { Link } from 'react-router-dom'
-import Blink from 'react-blink-text'
 import SocialMediaLinks from './social-media-links'
 
 const HeaderComponent = ({menu}) => {
@@ -43,6 +42,7 @@ const HeaderComponent = ({menu}) => {
         </div>
         <div className="hidden md:block md:ml-10">
           <Link to="/" className="font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Home</Link>
+          <Link to="/conference-programme" className="ml-10 font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Conference Programme</Link>
           {/*
           <Link to="/papers" className="ml-10 font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Call for Papers</Link>
           <Link to="/workshops" className="ml-10 font-light text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out">Call for Workshops</Link>

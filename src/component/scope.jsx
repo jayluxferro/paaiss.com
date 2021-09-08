@@ -1,6 +1,5 @@
 import React,{Fragment} from 'react';
 import CallForPapers from '../component/call-for-papers'
-import { Link } from 'react-router-dom'
 
 const ScopeComponent = () => {
     return (

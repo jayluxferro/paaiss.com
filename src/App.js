@@ -10,6 +10,7 @@ const WorkshopsComponent = lazy(()=>import ('./pages/workshops'))
 const PapersComponent = lazy(()=>import ('./pages/papers'))
 const WIPComponent = lazy(() => import('./pages/wip'))
 const KeynoteSpeakersComponent = lazy(() => import('./pages/keynote-speakers'))
+const ConferenceProgrammeComponent = lazy(() => import('./pages/conference-programme'))
 
 const LoadingComponet = () => {
   return (
@@ -28,6 +29,7 @@ const App = () => {
       <Suspense fallback={LoadingComponet()}>
       <Switch>
     <Route path={"/conference-officers"} exact={true} component={ConferenceOfficersComponent} />
+    <Route path={"/conference-programme"} exact={true} component={ConferenceProgrammeComponent} />
     <Route path={"/program-committees"} exact={true} component={ProgramCommitteeComponent} />
     <Route path={"/papers"} exact={true} component={PapersComponent} />
     <Route path={"/wip"} exact={true} component={WIPComponent} />
