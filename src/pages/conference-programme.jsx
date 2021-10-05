@@ -11,7 +11,7 @@ const data = [
   { 
     category: 'Day 1: Thursday October 7 (Namibian Time)',
     prog: [
-      { time: '14:00 – 10:30', event: 'Welcome Message<br/> <b>Prof. Anicia Peters</b><br/><br/> PVC: Research, Innovation and Development, University of Namibia, Namibia', link: 'https://ryerson.zoom.us/j/99856827321?pwd=UVFES0ZOTXE2ejlXL1BOZzVNS3paUT09' },
+      { time: '14:00 – 14:30', event: 'Welcome Message<br/> <b>Prof. Anicia Peters</b><br/><br/> PVC: Research, Innovation and Development, University of Namibia, Namibia', link: 'https://ryerson.zoom.us/j/99856827321?pwd=UVFES0ZOTXE2ejlXL1BOZzVNS3paUT09' },
       { time: '14:35 – 14:50', event: 'History of the Conference<br/> <b>Dr Thomas Ndousse</b>' },
       { time: '15:00 – 16:00', event: 'Keynote Address<br/><br/> The Important Role of Operations Research (OR) Tools in the Success of AI and Smart Systems<br/><br/> <b>Prof. Attahiru S. Alfa</b><br/> Professor Emeritus in the Department of Electrical and Computer Engineering , University of Manitoba, Manitoba, Canada and Extraordinary Professor in the Department of Electrical, Electronic and Computer Engineering, University of Pretoria, South Africa'},
       { time: '16:00 – 16:20', event: '<b>Break</b>' },
@@ -41,7 +41,7 @@ const data = [
       { time: '16:00 – 16:20', event: 'Combining Multi-Layer Perceptron and Local Binary Patterns for Thermite Weld Defects Classification<br/><em>Mohale Molefe and Jules-Raymond Tapamo</em>' },
       { time: '16:20 – 16:40', event: 'Classification of Semantic Web Ontologies with Support Vector Machines<br/><em>Gideon Koech, Jean Vincent Fonou Dombeu and Mandlenkosi Gwetu</em>' },
       { time: '16:40 – 17:00', event: '<b>Break</b>' },
-      { time: '', event: '<b>Section 4 : Smart Systems</b>' },
+      { time: '', event: '<b>Section 4 : Smart Systems</b>&nbsp;&nbsp; - Session Chairs: <b>Thomas Ndousse and Victoria Hasheela-Mufeti</b>' },
       { time: '17:00 - 17:20', event: 'An Elliptic Curve Based Biometric User Authentication Protocol for Smart Homes Using Smartphone<br/><em>Amir Mohammadi Bagha, Isaac Woungang, Sanjay K. Dhurandher and Issa Traore</em>' },
       { time: '17:20 – 17:40', event: 'Efficient Sub-channel and Power Allocation in Multi-cell Indoor VLC Systems<br/><em>Sylvester Aboagye, Telex M. N. Ngatched and Octavia A. Dobre</em>' },
       { time: '17:40 – 18:00', event: 'Autonomic IoT: Towards Smart System Components with Cognitive IoT<br/><em>Justice Owusu Agyemang, Dantong Yu and Jerry John Kponyo</em>' },
