@@ -1,5 +1,6 @@
 import React,{Fragment} from 'react';
 import CallForPapers from '../component/call-for-papers'
+import { Link } from 'react-router-dom'
 
 const ScopeComponent = () => {
     return (
@@ -14,28 +15,18 @@ const ScopeComponent = () => {
   Tailwind UI components require Tailwind CSS v1.8 and the @tailwindcss/ui plugin.
   Read the documentation to get started: https://tailwindui.com/documentation
 --> */}
-          {/*
       <div className="py-0 xl:py-0 px-4 sm:px-0 lg:px-0 bg-white overflow-hidden">
         <div className="max-w-max-content lg:max-w-7xl mx-auto">
           <div className="relative z-10 mb-8 md:mb-2 md:px-6">
             <div className="text-base max-w-prose lg:max-w-none">
-              <Link data-aos="zoom-in" to="/papers" rel="noopener noreferrer" className="my-5 inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-light rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">
-                Call for Papers
-              </Link>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              <Link data-aos="zoom-in" to="/wip" rel="noopener noreferrer" className="my-5 inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-light rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">
-                Call for Papers (Work in Progress)
-              </Link>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              <Link data-aos="zoom-in" to="/workshops" rel="noopener noreferrer" className="my-5 inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-light rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">
-                Call for Workshops
-              </Link>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              <a target="_blank" data-aos="zoom-in" href="https://www.eventbrite.ca/e/pan-african-artificial-intelligence-and-smart-systems-conference-2021-tickets-150311344277?aff=ebdsoporgprofile" rel="noopener noreferrer" className="my-5 inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-light rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">
-                Register for the Conference
+              <p>We are happy to announce that the PA-AI & SS 2021 conference proceedings have been published in Springer/EAI LNCIST series.<a target="_blank" data-aos="zoom-in" href="https://link.springer.com/book/10.1007/978-3-030-93314-2" rel="noopener noreferrer" className="my-5 inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-light rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">
+                Click here to view the published proceedings!!!
               </a>
+              </p>
             </div>
           </div>
         </div>
       </div>
-      */}
 <div className="relative bg-gray-800">
   <div className="h-56 bg-indigo-600 sm:h-72 md:absolute md:left-0 md:h-full md:w-1/2">
     <img className="w-full h-full object-cover" src={require('../assets/images/ai.jpg')} alt="Support team" />
