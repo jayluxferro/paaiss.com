@@ -19,9 +19,10 @@ const ScopeComponent = () => {
         <div className="max-w-max-content lg:max-w-7xl mx-auto">
           <div className="relative z-10 mb-8 md:mb-2 md:px-6">
             <div className="text-base max-w-prose lg:max-w-none">
-              <p>We are happy to announce that the PA-AI & SS 2021 conference proceedings have been published in Springer/EAI LNCIST series.<a target="_blank" data-aos="zoom-in" href="https://link.springer.com/book/10.1007/978-3-030-93314-2" rel="noopener noreferrer" className="my-5 inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-light rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">
-                Click here to view the published proceedings!!!
+              <p>We are happy to announce that the PA-AI & SS 2021 conference proceedings have been published in Springer/EAI LNCIST series.<a target="_blank" data-aos="zoom-in" href="https://link.springer.com/book/10.1007/978-3-030-93314-2" className="my-5 inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-light rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">
+                Click here to view the published proceedings!!!<br/>
               </a>
+                <a href="https://link.springer.com/book/10.1007/978-3-030-93314-2" target="_blank"><img className="w-full h-full object-cover" style={{width: 410, borderRadius: 10 }} src={require('../assets/images/proceedings.jpg')} alt="" /></a>
               </p>
             </div>
           </div>
@@ -29,7 +30,7 @@ const ScopeComponent = () => {
       </div>
 <div className="relative bg-gray-800">
   <div className="h-56 bg-indigo-600 sm:h-72 md:absolute md:left-0 md:h-full md:w-1/2">
-    <img className="w-full h-full object-cover" src={require('../assets/images/ai.jpg')} alt="Support team" />
+    <img className="w-full h-full object-cover" src={require('../assets/images/ai.jpg')} alt="" />
   </div>
   <div className="relative max-w-screen-xl mx-auto px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
     <div className="md:ml-auto md:w-1/2 md:pl-10">
